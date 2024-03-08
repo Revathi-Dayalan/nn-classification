@@ -225,12 +225,12 @@ print(le.inverse_transform(x_single_prediction))
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/14be142b-f9ca-4fa5-9359-3aa63cd8fec5)
+![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/38cbf747-4305-44cd-84ab-0b50981b525d)
 
 
 ### Classification Report
 
-![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/3d24fccb-ca2a-4524-85a8-53cc1301cc28)
+![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/d8d5a086-be5b-4219-9a39-62cd1b9101e0)
 
 
 ### Confusion Matrix
