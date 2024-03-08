@@ -220,7 +220,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/3a115a8f-234e-4dfe-a1b6-5efd98c21c0c)
+![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/10d7409d-f9cb-4744-897a-7f0610760814)
 
 
 ## OUTPUT
