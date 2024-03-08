@@ -54,6 +54,7 @@ Using the DL model predict for some random inputs
 
 
 ## PROGRAM:
+```
 Name:Revathi.D
 Register Number:212221240045
 import pandas as pd
@@ -155,9 +156,7 @@ y.shape
 y1[0]
 y[0]
 X.shape
-X_train,X_test,y_train,y_test=train_test_split(X,y,
-                                               test_size=0.33,
-                                               random_state=50)
+X_train,X_test,y_train,y_test=train_test_split(X,y test_size=0.33,random_state=50)
 X_train[0]
 X_train.shape
 scaler_age = MinMaxScaler()
@@ -175,8 +174,7 @@ ai_brain = Sequential([
   Dense(4,input_shape=(8,)),
   Dense(8,activation='relu'),
   Dense(8,activation='relu'),
-  Dense(4,activation='softmax'),
-])
+  Dense(4,activation='softmax'),])
 
 ai_brain.compile(optimizer='adam',
                  loss='categorical_crossentropy',
