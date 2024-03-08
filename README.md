@@ -235,13 +235,10 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Confusion Matrix
 
-![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/6ee2199c-2f54-4833-8494-7926a1324872)
-
+![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/84161739-e7fe-49dc-b1c9-c6502f61f99f)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/a90daf49-b5f6-4baf-bb1e-db6a538cc8c4)
-
-
+![image](https://github.com/Revathi-Dayalan/nn-classification/assets/96000574/69f5b95f-3f44-4a30-893d-a6bc9edd5373)
 ## RESULT
 A neural network classification model is developed for the given dataset.
